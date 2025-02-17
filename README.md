@@ -13,18 +13,9 @@ This project focuses on detecting deepfake images using Vision Transformer (ViT)
 ## Installation
 1. Clone the repository:
    ```sh
-   
-   ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
+   https://github.com/Saravana-2816/DF-WildCup.git
    ```
 
-## Usage
-Run the model for inference:
-```sh
-python detect.py --image <image_path>
-```
 
 ## Future Improvements
 - Enhancing model robustness with additional datasets
